@@ -3,9 +3,11 @@
 <table>
 <tr>
 <td>
-	Mais um Projeto Concluido : Utilizando Bootstrap para uma melhor apresentação de forma responsiva e um tanto dinamica, consumindo mais uma API gratuita, pelo método Fetch        https://timezone.abstractapi.com/v1/current_time/?api_key=9422a6fb3b834dc7bfe9d7847e347b58&location=${local}
+	Mais um Projeto Concluido : Utilizando Bootstrap para uma melhor apresentação de forma responsiva e um tanto dinamica, consumindo mais uma API gratuita, 
+	pelo método Fetch
+	https://timezone.abstractapi.com/v1/current_time/?api_key={}&location=${local}
 	Com foco: HTML, CSS, e JS
-  iniciado 20/03/2023 e Finalizado 20/03 as 22:30 - Na minha folga :)  
+	iniciado 20/03/2023 e Finalizado 20/03 as 22:30 - Na minha folga :)  
 
 </td>
 </tr>

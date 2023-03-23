@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-	Mais um Projeto Concluido : Utilizando Bootstrap para uma melhor apresentação de forma responsiva e um tanto dinamica, consumindo mais uma API gratuita, 
+	Mais um Projeto Experimental Concluido : Utilizando Bootstrap para uma melhor apresentação de forma responsiva e um tanto dinamica, consumindo mais uma API gratuita, 
 	pelo método Fetch
 	https://timezone.abstractapi.com/v1/current_time/?api_key={}&location=${local}
 	Com foco: HTML, CSS, e JS
@@ -16,5 +16,5 @@
 
 
 
-https://user-images.githubusercontent.com/123768685/226501429-a2888ac1-cac9-4364-8510-39806d7e714b.mp4
+https://somup.com/c0e0DjyM2Y
 

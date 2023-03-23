@@ -11,3 +11,8 @@
     height: 500px; 
 }
 
+.botao-cor-especial{
+    color: white;
+    background-color: orange;
+    border-radius:none;
+}
